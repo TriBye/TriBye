@@ -1,1 +1,1 @@
-![image](https://github.com/user-attachments/assets/5c88221d-132e-4f5f-a820-68c04bbd0814)
+Hi Pals👋! I am Co Founder and CEO of ITX Studios and a lead developer in the ITX Mini Department. Also i am a leading Software Designer and currently working on the future of the ITX Organisation. You can visit the offical ITX Website at https://itx-studios.com/ or the backup website at https://itx-studios.github.io/. 
