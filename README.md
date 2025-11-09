@@ -1,4 +1,4 @@
-Founder, CEO and Developer at ITX Studios
+Co-Founder and CEO of ITX Studios
 
 Website: https://itx-studios.github.io
 
