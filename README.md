@@ -1,6 +1,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TriBye&layout=compact&theme=dark)
 
-Co-Founder and CEO of ITX Studios
+ITX Studios's Co-Founder and CEO
 
 Website: https://itx-studios.github.io
 
