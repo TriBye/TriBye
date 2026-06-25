@@ -7,9 +7,10 @@
 *AI Engineer*  
 *Lead Game Design*  
 
+
+[![Website](https://img.shields.io/badge/Website-757171?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-website.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
