@@ -3,7 +3,9 @@
 # Yo
 
 <!-- One or two sentences about yourself -->
-*[e.g. "ML engineer & open-source contributor passionate about building things that matter"]*
+*[Founder of ITX Studios]*
+*[AI Engineer]*
+*[Lead Game Design]*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-website.com)
