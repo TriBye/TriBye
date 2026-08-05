@@ -8,8 +8,8 @@
 *Lead Game Design*  
 
 
-[![Website](https://img.shields.io/badge/Website-757171?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![Website](https://img.shields.io/badge/Website-757171?style=flat-square&logo=linkedin&logoColor=white)](https://itx-studios.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AWzMttMEG3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-saak-027184351)
 
 </div>
